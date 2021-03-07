@@ -6,7 +6,7 @@
 <a href="https://t.me/tonydev10">
   <img align="left" alt="Tony's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/tony.matheus/">
+<a href="https://www.instagram.com/tony.matheus">
   <img align="left" alt="Beatriz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
