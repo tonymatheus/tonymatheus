@@ -20,7 +20,6 @@
 
 <br/>[![tonymatheus github stats](https://github-readme-stats.vercel.app/api?username=tonymatheus&count_private=true&count_private=true&theme=tokyonight)](https://github.com/tonymatheus/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonymatheus&layout=compact&theme=tokyonight)](https://github.com/tonymatheus)
 
 <!--
 **tonymatheus/tonymatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
