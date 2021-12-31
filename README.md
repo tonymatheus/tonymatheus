@@ -18,7 +18,7 @@
 - but in my personal projects I really love to use Node.js,here you got see so many king of projects.
 <img src="https://media1.tenor.com/images/1b6b50f7460cef806f7d5ffd32f260b1/tenor.gif?itemid=17952484" height="190px" width="1200px">
 
-<br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tonymatheus&count_private=true&count_private=true&theme=tokyonight)](https://github.com/tonymatheus/github-readme-stats)
+<br/>[![tonymatheus github stats](https://github-readme-stats.vercel.app/api?username=tonymatheus&count_private=true&count_private=true&theme=tokyonight)](https://github.com/tonymatheus/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonymatheus&layout=compact&theme=tokyonight)](https://github.com/tonymatheus)
 
