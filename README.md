@@ -3,10 +3,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-TonyMatheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/tonymatheus631409167/)](https://www.linkedin.com/in/tonymatheus631409167/)
-
-
 <a href="https://t.me/tonydev10">
-  <img align="left" alt="Tony's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Tony's Telegram" width="22px" color="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/tony.matheus/">
   <img align="left" alt="Tony's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
